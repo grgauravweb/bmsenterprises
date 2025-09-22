@@ -1,0 +1,44 @@
+.topbar{
+    background-color: #0693e3;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    color: #ffffff;
+    text-align: center;
+}
+.fa{
+    font-size: 24px!important;
+    font-weight: bold!important;
+}
+.nav-item{
+    margin-left: 30px;
+    font-size: 20px;
+}
+.carousel{
+    margin-right: 180px!important;
+    margin-left: 180px!important;
+}
+#products h2 {
+  font-weight: bold;
+  color: #0d6efd;
+}
+
+#products h3 {
+  color: #0d6efd;
+  margin-bottom: 15px;
+  font-weight: 600;
+}
+
+#products p {
+  font-size: 16px;
+  color: #555;
+  line-height: 1.6;
+}
+
+#products img {
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+#products img:hover {
+  transform: scale(1.05);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.2);
+}
